@@ -2,6 +2,7 @@ namespace LMDB.Data;
 
 public class WeatherForecastService
 {
+
     private static readonly string[] Summaries = new[]
     {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
@@ -16,4 +17,5 @@ public class WeatherForecastService
             Summary = Summaries[Random.Shared.Next(Summaries.Length)]
         }).ToArray());
     }
+
 }

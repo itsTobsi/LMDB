@@ -2,5 +2,15 @@
   "cSpell.words": [
     "Blazor",
     "LMDB"
-  ]
+  ],
+  
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "mdx": "html",
+    "postcss": "css",
+    "css": "css",
+    "aspnetcorerazor": "html",
+    "razor": "html"
+  },
 }

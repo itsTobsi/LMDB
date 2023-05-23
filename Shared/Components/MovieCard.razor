@@ -1,0 +1,17 @@
+@using LMDB.Data.Movie
+
+<PageTitle>LMDB - Movies</PageTitle>
+
+<article>
+  <a href="">
+    <img src="" alt="">
+    <h3>@movie.Title</h3>
+    <p>@movie.Description</p>
+    <a href=""></a>
+  </a>
+</article>
+
+@code {
+  [Parameter]
+  public Movie movie { get; set; } // TODO: Should it be Movies? movie
+}

@@ -14,3 +14,7 @@ Check out Blazor.
 dotnet run      // Builds and runs
 dotnet watch    // Builds and runs with hot reload enabled
 ```
+
+### TODO
+
+- [ ] Dynamic routing to a movie page.
