@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/tsh40/Desktop/Tech/Repos/LMDB/Pages/Movies.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tsh40/Desktop/Tech/Repos/LMDB/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -39,6 +43,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/tsh40/Desktop/Tech/Repos/LMDB/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tsh40/Desktop/Tech/Repos/LMDB/Shared/Components/MovieCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcTW92aWVDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-m6y6nj8bv4
 
 [C:/Users/tsh40/Desktop/Tech/Repos/LMDB/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

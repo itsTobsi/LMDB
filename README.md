@@ -10,5 +10,7 @@ Check out Blazor.
 
 ### Commands
 
-dotnet run
-dotnet watch
+```
+dotnet run      // Builds and runs
+dotnet watch    // Builds and runs with hot reload enabled
+```

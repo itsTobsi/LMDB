@@ -30,3 +30,4 @@ C:\Users\tsh40\Desktop\Tech\Repos\LMDB\obj\Debug\net7.0\refint\LMDB.dll
 C:\Users\tsh40\Desktop\Tech\Repos\LMDB\obj\Debug\net7.0\LMDB.pdb
 C:\Users\tsh40\Desktop\Tech\Repos\LMDB\obj\Debug\net7.0\LMDB.genruntimeconfig.cache
 C:\Users\tsh40\Desktop\Tech\Repos\LMDB\obj\Debug\net7.0\ref\LMDB.dll
+C:\Users\tsh40\Desktop\Tech\Repos\LMDB\obj\Debug\net7.0\scopedcss\Shared\Components\MovieCard.razor.rz.scp.css
