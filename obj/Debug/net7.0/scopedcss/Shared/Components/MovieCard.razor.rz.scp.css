@@ -1,0 +1,15 @@
+.movie-card[b-lk2x9kr3nh] {
+  display: block;
+  background: rgb(31, 31, 31);
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.movie-card__image[b-lk2x9kr3nh] {
+  border-radius: 1rem;
+}
+
+.movie-card__content[b-lk2x9kr3nh] {
+  padding: 1rem;
+  background-color: blue;
+}

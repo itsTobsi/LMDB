@@ -1,15 +1,12 @@
 @using LMDB.Data.Movie
 
-<PageTitle>LMDB - Movies</PageTitle>
-
-<article>
-  <a href="">
-    <img src="" alt="">
-    <h3>@movie.Title</h3>
-    <p>@movie.Description</p>
-    <a href=""></a>
-  </a>
-</article>
+<a href="" class="movie-card">
+  <img class="movie-card__image" src="" alt="">
+  <div class="movie-card__content">
+    <h3 class="movie-card__title">@movie.Title</h3>
+    <p class="movie-card__description">@movie.Description</p>
+  </div>
+</a>
 
 @code {
   [Parameter]

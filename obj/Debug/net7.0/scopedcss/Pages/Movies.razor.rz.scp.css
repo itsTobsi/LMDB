@@ -1,0 +1,10 @@
+.movies-grid[b-c0ilwh8oyo] {
+  display: grid;
+  gap: 2rem;
+}
+
+@media (min-width: 600px) {
+  .movies-grid[b-c0ilwh8oyo] {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

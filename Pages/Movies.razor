@@ -10,10 +10,12 @@
 }
 else
 {
-    @foreach (var movie in movies)
-    {
-        <LMDB.Shared.Components.MovieCard Movie="@movie"/>
-    }
+    <div class="movies-grid">
+        @foreach (var movie in movies)
+        {
+            <LMDB.Shared.Components.MovieCard Movie="@movie"/>
+        }
+    </div>
 }
 
 @code {

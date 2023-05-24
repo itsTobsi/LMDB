@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ytb2J7+tRLXzOTebC8iuddrBo1SI1PC24kxBNXnA1Sw=",
+  "Hash": "1+NbLizx3DvUOyRJwAqFqGaJZbh7b3WNNCbrQeEE/ns=",
   "Source": "LMDB",
   "BasePath": "_content/LMDB",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "LMDB\\wwwroot",
+      "Name": "LMDB/wwwroot",
       "Source": "LMDB",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LMDB.styles.css",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/obj/Debug/net7.0/scopedcss/bundle/LMDB.styles.css",
       "SourceId": "LMDB",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/LMDB",
       "RelativePath": "LMDB.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LMDB.styles.css"
+      "OriginalItemSpec": "/home/karsten/Documents/Projects/LMDB/obj/Debug/net7.0/scopedcss/bundle/LMDB.styles.css"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LMDB.bundle.scp.css",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/obj/Debug/net7.0/scopedcss/projectbundle/LMDB.bundle.scp.css",
       "SourceId": "LMDB",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/LMDB",
       "RelativePath": "LMDB.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LMDB.bundle.scp.css"
+      "OriginalItemSpec": "/home/karsten/Documents/Projects/LMDB/obj/Debug/net7.0/scopedcss/projectbundle/LMDB.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/open-iconic/README.md",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\css\\site.css",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/css/site.css",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\favicon.png",
+      "Identity": "/home/karsten/Documents/Projects/LMDB/wwwroot/favicon.png",
       "SourceId": "LMDB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\wwwroot\\",
+      "ContentRoot": "/home/karsten/Documents/Projects/LMDB/wwwroot/",
       "BasePath": "_content/LMDB",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
+      "OriginalItemSpec": "wwwroot/favicon.png"
     }
   ]
 }

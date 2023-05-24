@@ -1,0 +1,15 @@
+.movie-card {
+  display: block;
+  background: rgb(31, 31, 31);
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.movie-card__image {
+  border-radius: 1rem;
+}
+
+.movie-card__content {
+  padding: 1rem;
+  background-color: blue;
+}

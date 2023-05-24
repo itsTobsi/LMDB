@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZRlCTttTG1No8GLh/KRiH2sFrU7hFARTbL3TzjD+P71A2gKfXOyFTtY4s9p4eQbqYGOwINTmOJBcOmRklPemKQ==",
+  "dgSpecHash": "nieEtHNTYfGeGWjcrFWrMHtXdh1GwRN6/E80xdiFHxYMNqBV+slGYqnH4wovyO1c3jNSffaidfCsG7tfoiHvSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tsh40\\Desktop\\Tech\\Repos\\LMDB\\LMDB.csproj",
+  "projectFilePath": "/home/karsten/Documents/Projects/LMDB/LMDB.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
