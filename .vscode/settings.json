@@ -3,7 +3,6 @@
     "Blazor",
     "LMDB"
   ],
-  
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact",

@@ -2,21 +2,23 @@
 @using LMDB.Data.Movie
 @inject MovieService MoviesService
 
-<h1>Movies</h1>
+<section class="wrapper">
+    <h1>Movies</h1>
 
-@if (movies == null)
-{
-    <p><em>Loading...</em></p>
-}
-else
-{
-    <div class="movies-grid">
-        @foreach (var movie in movies)
-        {
-            <LMDB.Shared.Components.MovieCard Movie="@movie"/>
-        }
-    </div>
-}
+    @if (movies == null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else
+    {
+        <div class="movies-grid">
+            @foreach (var movie in movies)
+            {
+                <LMDB.Shared.Components.MovieCard Movie="@movie"/>
+            }
+        </div>
+    }
+</section>
 
 @code {
     private Movie[]? movies;

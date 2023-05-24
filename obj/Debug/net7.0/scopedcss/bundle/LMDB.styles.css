@@ -1,29 +1,50 @@
 /* _content/LMDB/Pages/Movies.razor.rz.scp.css */
 .movies-grid[b-c0ilwh8oyo] {
   display: grid;
-  gap: 2rem;
+  gap: 1.2rem;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 475px) {
   .movies-grid[b-c0ilwh8oyo] {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 640px) {
+  .movies-grid[b-c0ilwh8oyo] {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 /* _content/LMDB/Shared/Components/MovieCard.razor.rz.scp.css */
 .movie-card[b-lk2x9kr3nh] {
-  display: block;
   background: rgb(31, 31, 31);
-  border-radius: 1rem;
+  border-radius: 0.25rem;
   overflow: hidden;
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px, rgba(0, 0, 0, 0.5) 0px 1px 2px;
 }
 
 .movie-card__image[b-lk2x9kr3nh] {
-  border-radius: 1rem;
+  object-fit: cover;
+  width: 100%;
 }
 
 .movie-card__content[b-lk2x9kr3nh] {
   padding: 1rem;
-  background-color: blue;
+}
+
+.movie-card__title[b-lk2x9kr3nh] {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+a[b-lk2x9kr3nh] {
+  text-decoration: none;
+  color: currentColor;
+}
+
+a:hover[b-lk2x9kr3nh] {
+  color: var(--color-primary);
 }
 /* _content/LMDB/Shared/MainLayout.razor.rz.scp.css */
 .page[b-pqbxq117le] {
